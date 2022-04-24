@@ -1,0 +1,10 @@
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\bin\Debug\Cagri_Merkezi_Uygulamasi.exe.config
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\bin\Debug\Cagri_Merkezi_Uygulamasi.exe
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\bin\Debug\Cagri_Merkezi_Uygulamasi.pdb
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\obj\Debug\Cagri_Merkezi_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\obj\Debug\Cagri_Merkezi_Uygulamasi.frmCagriMerkezi.resources
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\obj\Debug\Cagri_Merkezi_Uygulamasi.Properties.Resources.resources
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\obj\Debug\Cagri_Merkezi_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\obj\Debug\Cagri_Merkezi_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\obj\Debug\Cagri_Merkezi_Uygulamasi.exe
+C:\Users\TS\source\repos\Cagri_Merkezi_Uygulamasi\Cagri_Merkezi_Uygulamasi\obj\Debug\Cagri_Merkezi_Uygulamasi.pdb
